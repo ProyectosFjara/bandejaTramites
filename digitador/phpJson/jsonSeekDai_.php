@@ -11,6 +11,7 @@
  * @lastmodified	06/03/2015
 */
 /*PRUEBA DE COMMIT*/
+/*prueba 2 commit*/
 
 	header("Content-Type: text/plain");
 	require ($_SERVER['DOCUMENT_ROOT'].'/Framework/include/defined.php');
