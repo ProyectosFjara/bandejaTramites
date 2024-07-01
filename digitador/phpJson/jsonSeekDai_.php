@@ -10,6 +10,8 @@
  * @modifiedby		Rodolfo Balla <rballa@torresytorres.com>
  * @lastmodified	06/03/2015
 */
+/*PRUEBA DE COMMIT*/
+
 	header("Content-Type: text/plain");
 	require ($_SERVER['DOCUMENT_ROOT'].'/Framework/include/defined.php');
 	require( _CONNECT_ );
